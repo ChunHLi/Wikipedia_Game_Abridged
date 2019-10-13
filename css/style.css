@@ -1,0 +1,26 @@
+#bigger {
+    font-size: 24px;
+    overflow: auto;
+}
+
+.div_form {
+    width: 750px;
+}
+
+.pad_it{}
+
+
+input[type=text] {
+    width:60%;
+    font-size: 20px
+}
+
+button {
+    width:35%;
+    font-size: 16px;
+    padding: 5px 0px 2px 0px;
+}
+
+td {
+    text-align: right;
+}
